@@ -4,7 +4,11 @@ This project is a basic todo app created with React.Css & HTML is a clone code [
 
 ## Demo
 
-You can see & use demo [from here](https://react-todo-app-turkoglu.netlify.app/)
+You can see & use demo  
+[Vercel Todo App](https://react-todo-kyuv5q0i0-nurullahturkoglu.vercel.app/)  
+or  
+[Netlify Todo App](https://react-todo-app-turkoglu.netlify.app/)  
+
 
 ## Images in App
 
