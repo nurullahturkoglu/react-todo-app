@@ -12,6 +12,8 @@ or
 
 ## Images in App
 
+![Todo App](https://user-images.githubusercontent.com/73299153/187403544-fdd6b96e-1bef-4070-9645-03ffc7714e4b.JPG)
+
 ## Installation
 Clone the repository
 ```bash
